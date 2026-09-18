@@ -1,9 +1,15 @@
 {
-  "name": "rattrapage",
+  "name": "mon-projet",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Exemple d'utilisation des modules ESM",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "node.js": "^0.0.1-security",
+    "nodes.js": "^0.0.1-security",
+    "prompt-sync": "^4.2.0"
   }
 }
