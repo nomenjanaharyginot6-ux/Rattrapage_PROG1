@@ -1,4 +1,4 @@
-function NegatifPositif(T) {
+export function NegatifPositif(T) {
     let gauche = 0;
     let droite = T.length - 1;
 
