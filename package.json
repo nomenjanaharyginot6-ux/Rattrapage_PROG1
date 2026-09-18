@@ -1,7 +1,7 @@
 {
-  "name": "mon-projet",
+  "name": "rattrapage",
   "version": "1.0.0",
-  "description": "Exemple d'utilisation des modules ESM",
+  "description": "rattrapage prog1",
   "main": "index.js",
   "type": "module",
   "scripts": {
